@@ -16,7 +16,7 @@ const text = (
           here
         </a>{" "}
         and check out the rest of my portfolio{" "}
-        <a href="http://www.sunkenworld.com/">here</a>.
+        <a href="http://www.sunkenworld.com/#page-3">here</a>.
       </p>
     </div>
     <footer id="photo-footer">

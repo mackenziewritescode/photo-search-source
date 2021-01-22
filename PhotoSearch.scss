@@ -186,4 +186,11 @@ body {
     bottom: 50%;
     transform: translateY(50%);
   }
+
+  @media only screen and (max-width: 440px) {
+    .thumb {
+      float: none;
+      margin: 10px auto;
+    }
+  }
 }
